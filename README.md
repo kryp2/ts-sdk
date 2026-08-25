@@ -1,5 +1,7 @@
 # BSV SDK
 
+> **STATUS: retiring** — archive pending port of the local trustSelf fix to ts-stack (see roadmap).
+
 [![codecov](https://codecov.io/gh/bsv-blockchain/ts-sdk/branch/master/graph/badge.svg)](https://codecov.io/gh/bsv-blockchain/ts-sdk)
 [![npm version](https://badge.fury.io/js/@bsv%2Fsdk.svg)](https://badge.fury.io/js/@bsv%2Fsdk)
 [![Build Status](https://github.com/bsv-blockchain/ts-sdk/actions/workflows/push.yaml/badge.svg)](https://github.com/bsv-blockchain/ts-sdk/actions/workflows/push.yaml)
